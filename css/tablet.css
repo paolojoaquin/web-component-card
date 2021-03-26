@@ -1,0 +1,12 @@
+my-card {
+    flex-direction: row;
+    min-width: 820px;
+    max-width: 820px;
+    height: 560px;
+    --width-card: 410px;
+    --height-up: 100%;
+    --height-down: 100%;
+    --width-primary: 640px;
+    --rotate-primary: -32deg;
+    --padding-left-p: 40px;
+}
